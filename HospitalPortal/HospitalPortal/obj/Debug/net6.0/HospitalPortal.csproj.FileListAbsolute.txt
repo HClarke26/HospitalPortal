@@ -1,0 +1,15 @@
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\bin\Debug\net6.0\HospitalPortal.exe
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\bin\Debug\net6.0\HospitalPortal.deps.json
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\bin\Debug\net6.0\HospitalPortal.runtimeconfig.json
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\bin\Debug\net6.0\HospitalPortal.dll
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\bin\Debug\net6.0\HospitalPortal.pdb
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.csproj.AssemblyReference.cache
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.AssemblyInfoInputs.cache
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.AssemblyInfo.cs
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.csproj.CoreCompileInputs.cache
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.dll
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\refint\HospitalPortal.dll
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.pdb
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\HospitalPortal.genruntimeconfig.cache
+C:\Users\hc1\source\repos\HospitalPortal\HospitalPortal\obj\Debug\net6.0\ref\HospitalPortal.dll
